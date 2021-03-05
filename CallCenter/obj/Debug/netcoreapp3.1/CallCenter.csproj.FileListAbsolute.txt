@@ -1,0 +1,13 @@
+C:\Lab\CallCenter\obj\Debug\netcoreapp3.1\CallCenter.AssemblyInfoInputs.cache
+C:\Lab\CallCenter\obj\Debug\netcoreapp3.1\CallCenter.AssemblyInfo.cs
+C:\Lab\CallCenter\obj\Debug\netcoreapp3.1\CallCenter.csproj.CoreCompileInputs.cache
+C:\Lab\CallCenter\obj\Debug\netcoreapp3.1\CallCenter.csprojAssemblyReference.cache
+C:\Lab\CallCenter\bin\Debug\netcoreapp3.1\CallCenter.exe
+C:\Lab\CallCenter\bin\Debug\netcoreapp3.1\CallCenter.deps.json
+C:\Lab\CallCenter\bin\Debug\netcoreapp3.1\CallCenter.runtimeconfig.json
+C:\Lab\CallCenter\bin\Debug\netcoreapp3.1\CallCenter.runtimeconfig.dev.json
+C:\Lab\CallCenter\bin\Debug\netcoreapp3.1\CallCenter.dll
+C:\Lab\CallCenter\bin\Debug\netcoreapp3.1\CallCenter.pdb
+C:\Lab\CallCenter\obj\Debug\netcoreapp3.1\CallCenter.dll
+C:\Lab\CallCenter\obj\Debug\netcoreapp3.1\CallCenter.pdb
+C:\Lab\CallCenter\obj\Debug\netcoreapp3.1\CallCenter.genruntimeconfig.cache

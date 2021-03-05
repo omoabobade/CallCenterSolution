@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallCenter", "CallCenter.csproj", "{78332660-56D5-4EF0-9F9D-705173616701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestCallCenter", "..\XUnitTestCallCenter\XUnitTestCallCenter.csproj", "{5E0DE199-D8EB-4040-B0F8-0A4F70BA9F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78332660-56D5-4EF0-9F9D-705173616701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78332660-56D5-4EF0-9F9D-705173616701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78332660-56D5-4EF0-9F9D-705173616701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78332660-56D5-4EF0-9F9D-705173616701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0DE199-D8EB-4040-B0F8-0A4F70BA9F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0DE199-D8EB-4040-B0F8-0A4F70BA9F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0DE199-D8EB-4040-B0F8-0A4F70BA9F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0DE199-D8EB-4040-B0F8-0A4F70BA9F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {964673D9-B9B1-4A6B-8635-B35A360AA4C2}
+	EndGlobalSection
+EndGlobal
